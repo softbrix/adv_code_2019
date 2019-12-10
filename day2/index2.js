@@ -30,7 +30,7 @@ rl.on('close', (input) => {
         }
       }
   }
-  console.log("No reault found")
+  console.log("No result found")
 });
 
 function compute(idx) {
